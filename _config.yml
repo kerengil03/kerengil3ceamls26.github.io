@@ -4,11 +4,11 @@
 # =====================================================
 
 # ----- Identity (shown in SEO + browser tab) -----
-title: Your Name Here                              # <- your name
-author: Your Name Here                             # <- your name (shown as post byline)
+title: Keren Gil                              # <- your name
+author: Keren Gil                             # <- your name (shown as post byline)
 description: My CEAMLS SAIRI Summer Research Site  # <- short site tagline
 email:                                             # <- (optional) contact email for SEO
-url: https://your-username.github.io               # <- your final site URL (canonical SEO links)
+url: https://kerengil03.github.io               # <- your final site URL (canonical SEO links)
 lang: en-US
 
 # ----- Branding (program-wide; rarely changes) -----
@@ -22,7 +22,7 @@ logo_on_light: /assets/images/logo-on-light.png
 logo_on_dark:  /assets/images/logo-on-dark.png
 
 # ----- Theme selection -----
-# Choose one of: minimal | premium | fresh | signal
+# Choose one of: fresh
 # See README.md for screenshots of each theme.
 theme_name: minimal
 
