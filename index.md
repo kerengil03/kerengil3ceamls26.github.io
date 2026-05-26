@@ -13,7 +13,7 @@ quick_facts:
   - " I know two languages"
 
 linkedin: https://www.linkedin.com/in/example
-image: assets/images/headshot..jpg
+image: assets/images/headshot4.jpg
 
 # A "Currently" block — three short status lines for the home page.
 currently:
