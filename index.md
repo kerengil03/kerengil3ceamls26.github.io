@@ -4,16 +4,16 @@ title: Home
 display_name: Keren Gil                  # <- shown as the big display name on the hero
 description: My CEAMLS SAIRI Summer Research Site
 
-motto: "Curious about how research can shape better tools for everyday life."
+motto: "Exploring how research can improve hospitality experiences and elevate service in restaurants and hotels."
 
 quick_facts:
   - " Sophmore, Hospitality Management"
-  - " Interested in Restaurant Management"
+  - " Interested in AI + Restaurant Management"
   - " Based in Baltimore, MD"
   - " I know two languages"
 
 linkedin: https://www.linkedin.com/in/example
-image: /assets/images/profile.svg
+image: assets/images/headshot..jpg
 
 # A "Currently" block — three short status lines for the home page.
 currently:
