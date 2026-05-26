@@ -8,7 +8,7 @@ title: Keren Gil                              # <- your name
 author: Keren Gil                             # <- your name (shown as post byline)
 description: My CEAMLS SAIRI Summer Research Site  # <- short site tagline
 email:                                             # <- (optional) contact email for SEO
-url: https://kerengil03.github.io               # <- your final site URL (canonical SEO links)
+url: https://kerengil03.github.io             # <- your final site URL (canonical SEO links)
 lang: en-US
 
 # ----- Branding (program-wide; rarely changes) -----
@@ -16,7 +16,7 @@ program: CEAMLS SAIRI
 program_long: CEAMLS SAIRI Summer Research        
 year: 2026                                         
 # Two logo variants — themes pick the one that contrasts with their background.
-# Light themes (minimal, premium) use logo_on_light; dark themes (fresh, signal)
+# Light themes dark themes (fresh, signal)
 # use logo_on_dark.
 logo_on_light: /assets/images/logo-on-light.png
 logo_on_dark:  /assets/images/logo-on-dark.png
