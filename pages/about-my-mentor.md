@@ -22,6 +22,6 @@ faculty_mentor:
   bio: |
     Dr. Efe works within the civil engineering department and has experience in computational modeling, app development, website creation, and Java programming.       As a mentor, Dr. Efe is very approachable, collaborative, and invested in teamwork. 
 
-Outside of research and teaching, he enjoys playing chess and tennis, and he has earned multiple awards throughout his career. 
+    Outside of research and teaching, he enjoys playing chess and tennis, and he has earned multiple awards throughout his career. 
 
 ---
