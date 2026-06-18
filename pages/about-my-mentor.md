@@ -9,7 +9,7 @@ graduate_mentor:
   image: /assets/images/dr-john.png
   website: https://www.linkedin.com/in/johnolajidetanimola-mnse-reg
   bio: |
-   Mr. Tanimola is originally from Nigeria and specializes in graphics and applications within civil engineering. 
+   Dr. Tanimola is originally from Nigeria and specializes in graphics and applications within civil engineering. 
    He decided to move to the United States to pursue his PhD in civil engineering with a focus on machine learning and advanced technologies. 
    Through his work, he brings together engineering principles with modern computational methods to explore smarter and more efficient solutions in the field.
 
