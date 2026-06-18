@@ -9,11 +9,7 @@ about:
   image: assets/images/Screenshot 2026-06-18 184224.png
   linkedin: https://www.linkedin.com/in/example
   bio: |
-    Hi! I'm Keren Gil, a Hospitality Management student and participant in the CEAMLS SAIRI Summer Research Program at Morgan State University.
-
-This summer, I've been researching how artificial intelligence and satellite imagery can be used to assess building damage after natural disasters. It's been exciting learning how technology can help communities recover and respond more effectively after disasters.
-
-Outside of research, I enjoy reading, listening to music, volunteering with kids, and staying active through track. I'm passionate about helping others, learning new things, and finding ways to make a positive impact in my community.
+    Hi! I'm Keren Gil, a Hospitality Management student and participant in the CEAMLS SAIRI Summer Research Program at Morgan State University. This summer, I've    been researching how artificial intelligence and satellite imagery can be used to assess building damage after natural disasters. It's been exciting learning      how technology can help communities recover and respond more effectively after disasters. Outside of research, I enjoy reading, listening to music, volunteering   with kids, and staying active through track. I'm passionate about helping others, learning new things, and finding ways to make a positive impact in my community.
 
   hobbies:
     - icon: 🏃🏻‍♀️
