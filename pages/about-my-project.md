@@ -23,10 +23,6 @@ approach: |
   Utilize  xBD datasets, deep learning techniques, and software tools throughout this project.
   
 outcome: |
-  What do you expect to produce by the end of the program? A working prototype?
-  A research poster? A short paper? Describe the artifacts and what you hope
-  others will be able to do with them.
-
   A trained damage assessment model — a fine-tuned deep learning model capable of analyzing aerial images and assigning Green, Yellow, or Red classifications that align with ATC-20 damage assessment standards. A functional web application — a user-friendly, mobile-compatible platform that allows users to upload building images and receive damage assessments along with confidence scores. A curated dataset — more than 500 labeled aerial images representing the three damage categories, prepared and organized for training, validation, and testing purposes. This dataset can support future research in AI-based disaster assessment. A research poster and presentation — presented at the SAIRI Research Symposium to showcase the project's methodology, findings, model performance, and comparison with traditional ATC-20 assessments. Ultimately, this project aims to demonstrate the potential of AI-assisted remote damage assessment as a practical tool for supporting emergency management and post-disaster recovery efforts.
 
 final_report_url: https://example.com/your-report.pdf
