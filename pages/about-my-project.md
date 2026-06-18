@@ -7,9 +7,6 @@ subtitle: Post-Disaster Building Damage Assessment AI
 project_title: "My Summer Research Project"
 
 problem: |
-  Briefly describe the problem your project tackles. Who is affected? Why does this
-  matter? What gap or limitation are you trying to address?
-
   Following disasters such as hurricanes, earthquakes, and floods, determining whether buildings are safe, restricted, or unsafe requires inspectors to conduct on-site evaluations. This process can be time-consuming, labor-intensive, and potentially hazardous in disaster-affected areas. As a result, emergency responders, government agencies, and residents often face delays in receiving critical information needed for recovery and decision-making. 
   
   Our project seeks to address this challenge by using artificial intelligence and aerial imagery to automate the initial assessment of building damage. By classifying structures as safe, restricted, or unsafe before field inspections begin, we aim to provide a faster and more scalable solution that helps direct resources and personnel where they are needed most.
