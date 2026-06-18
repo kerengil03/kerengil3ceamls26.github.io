@@ -3,8 +3,8 @@ layout: project
 title: About My Project
 permalink: /about-my-project.html
 
-subtitle: Post-Disaster Building Damage Assessment AI
-project_title: "My Summer Research Project"
+subtitle: My Summer Research Project
+project_title: "Post-Disaster Building Damage Assessment AI"
 
 problem: |
   Following disasters such as hurricanes, earthquakes, and floods, determining whether buildings are safe, restricted, or unsafe requires inspectors to conduct on-site evaluations. This process can be time-consuming, labor-intensive, and potentially hazardous in disaster-affected areas. As a result, emergency responders, government agencies, and residents often face delays in receiving critical information needed for recovery and decision-making. 
